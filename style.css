@@ -1,29 +1,43 @@
-/* هذا الكود يعطي طابعاً احترافياً وفخماً */
 body {
-    background-color: #f0f2f5; /* خلفية هادئة */
-    font-family: 'Arial', sans-serif;
+    background-color: #fdfaf7; /* كريمي ناعم جداً */
+    font-family: 'Playfair Display', serif; /* خط كلاسيكي فاخر */
     text-align: center;
-    color: #00008b; /* نص كحلي داكن */
+    color: #4a4a4a; /* رمادي دافئ */
+    margin: 0;
+    padding: 0;
 }
 
 header {
-    background-color: #00008b; /* كحلي */
-    color: #c0c0c0; /* فضي لامع للنص */
-    padding: 20px;
-    border-bottom: 4px solid #ff69b4; /* حافة بينك */
+    background-color: transparent; /* هيدر شفاف وفخم */
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive; /* الخط المتصل الفاخر */
+    font-size: 3em;
+    color: #d4af37; /* لون ذهبي/فضي لامع */
 }
 
 section {
-    margin: 20px auto;
-    padding: 20px;
-    border: 2px solid #c0c0c0; /* إطار فضي */
+    margin: 30px auto;
+    padding: 40px;
     background-color: #ffffff;
-    width: 80%;
-    border-radius: 15px;
+    width: 70%;
+    border-radius: 30px; /* زوايا دائرية جداً لتعطي نعومة */
+    border: 1px solid #f0e6d2; /* إطار خفيف جداً */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03); /* ظل خفي جداً */
 }
 
-/* إضافة بسيطة للمسات البينك */
-h1, h2 {
-    color: #ff69b4; /* عناوين بينك */
+/* إضافة لمسة Luxury */
+a {
+    color: #d4af37;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin: 0 15px;
+    transition: 0.3s;
+}
+
+a:hover {
+    letter-spacing: 2px; /* حركة بسيطة عند تمرير الفأرة */
 }
 

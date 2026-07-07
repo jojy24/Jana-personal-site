@@ -2,7 +2,7 @@
 A minimalist, aesthetic digital portfolio showcasing my journey in STEM, robotics, and intelligent systems.
 
 ### 🔗 Try it
-[Visit the live site here](https://jojy24.github.io/)
+[Visit the live site here](https://jojy24.github.io/Jana-personal-site/)
 
 ### 🚀 About
 This site is a curated space where I document my technical journey. It serves as my primary portfolio for university applications, highlighting my passion for embedded systems and software development.

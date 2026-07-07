@@ -2,6 +2,8 @@
 A minimalist, aesthetic digital portfolio showcasing my journey in STEM, robotics, and intelligent systems.
 
 ### 🔗 Try it
+![My Website](https://github.com/jojy24/jojy24.github.io/blob/main/image-name.png?raw=true)
+
 [Visit the live site here](https://jojy24.github.io/Jana-personal-site/)
 
 ### 🚀 About

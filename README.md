@@ -1,2 +1,2 @@
-# Jana-s-personal-site
+# Jana-personal-site
 My personal website 

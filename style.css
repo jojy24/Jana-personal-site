@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    border-bottom: 2px solid #333;
+}
+
+section {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px; /* عشان نسوي الزوايا دائرية */
+}

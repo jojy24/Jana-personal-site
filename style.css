@@ -1,21 +1,29 @@
+/* هذا الكود يعطي طابعاً احترافياً وفخماً */
 body {
-    background-color: #f0f2f5;
-    font-family: Arial, sans-serif;
+    background-color: #f0f2f5; /* خلفية هادئة */
+    font-family: 'Arial', sans-serif;
     text-align: center;
-    color: #333;
+    color: #00008b; /* نص كحلي داكن */
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #00008b; /* كحلي */
+    color: #c0c0c0; /* فضي لامع للنص */
     padding: 20px;
-    border-bottom: 2px solid #333;
+    border-bottom: 4px solid #ff69b4; /* حافة بينك */
 }
 
 section {
     margin: 20px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 2px solid #c0c0c0; /* إطار فضي */
+    background-color: #ffffff;
     width: 80%;
-    background-color: white;
-    border-radius: 15px; /* عشان نسوي الزوايا دائرية */
+    border-radius: 15px;
 }
+
+/* إضافة بسيطة للمسات البينك */
+h1, h2 {
+    color: #ff69b4; /* عناوين بينك */
+}
+
